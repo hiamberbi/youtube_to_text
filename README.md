@@ -94,11 +94,5 @@ This application allows users to:
 - YouTube Data API
 - Chosen speech-to-text service API
 
-## Installation (Coming Soon)
-
-## Usage (Coming Soon)
-
-## Contributing (Coming Soon)
-
 ## License
 MIT License 
